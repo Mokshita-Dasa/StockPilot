@@ -5,7 +5,9 @@
 StockPilot is a Python-based Inventory and Order Management System developed using Object-Oriented Programming (OOP) concepts and MySQL. It helps businesses manage products, monitor stock levels, process customer orders, and maintain inventory records.
 
 The system provides a menu-driven interface with database integration, input validation, error handling, logging, and automated testing.
+## Application Screenshot
 
+![StockPilot Main Menu](screenshots/stockpilot-menu.png)
 ## Features
 
 - Add and view products.
